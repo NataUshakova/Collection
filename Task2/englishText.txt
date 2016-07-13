@@ -1,0 +1,1 @@
+A string method, Split() separates at string and character delimiters.Even if we want just one part from a string, Split is useful. It returns a string array.
